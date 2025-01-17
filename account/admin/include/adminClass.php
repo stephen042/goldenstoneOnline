@@ -22,7 +22,7 @@ class message
         // $mail->SMTPDebug = SMTP::DEBUG_SERVER;
         //SMTP Settings (use default cpanel email account)
         $mail->isSMTP();
-        $mail->Host = "server153.web-hosting.com"; //
+        $mail->Host = "server270.web-hosting.com"; //
         $mail->SMTPAuth = true;
         $mail->Username = "support@goldenstonefinance.online"; // Default cpanel email account
         $mail->Password = 'goldenSecret.'; // Default cpanel email password
